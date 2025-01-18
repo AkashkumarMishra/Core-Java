@@ -33,5 +33,6 @@ public class MinMax{
         }else{
             System.out.print("False"+" ");
         }
+        sc.close();
     }
 }
